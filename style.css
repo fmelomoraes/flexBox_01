@@ -25,5 +25,9 @@
   border-color: white;
   color: white;
   cursor: pointer;
-  transition: 0.4s;
+  transition: 0.3s;
+}
+
+.buttonHeader :hover {
+  border-color: #ff0044;
 }
